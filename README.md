@@ -58,6 +58,40 @@ All data cleaning and transformation were conducted using MySQL, ensuring accura
 ## Executive Summary
 
 ## Key Findings
+Total Priority 1 Incidents: 24,938 calls classified as immediate or high priority—posing a direct threat to life—were dispatched across Seattle in 2024.
+
+Average Response Time: The overall average response time for Priority 1 incidents was 9.97 minutes, which is above SPD’s stated goal of a 7-minute target.
+
+Best Performing Precincts:
+
+West Precinct: Fastest average response time at 8.39 minutes
+
+East Precinct: Second fastest with an average of 8.48 minutes
+
+Area of Concern:
+
+North Precinct: Recorded the slowest average response time at 12.33 minutes, significantly lagging behind the SPD target and other precincts.
+
+Call Volume:
+
+West and North Precincts each handled the highest call volumes, with approximately 7,000 Priority 1 incidents each.
+
+Operational Metrics:
+
+Average Number of Responding Units: 3.12 units per incident
+
+Average Dispatch Delay: 2.17 minutes before units were deployed
+
+Temporal Trends:
+
+Incident volume shows a gradual decline from January to December.
+
+The fastest response times occurred between 12:00 AM–3:00 AM and 5:00 AM–9:00 AM.
+
+Geographic Variation:
+
+Belltown recorded the fastest neighborhood response time at 7.22 minutes.
+
 
 ## Insight Deep Dive
 
