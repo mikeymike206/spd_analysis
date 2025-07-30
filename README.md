@@ -52,8 +52,6 @@ The filtered dataset used in this analysis focuses exclusively on Priority 1 inc
 
 All data cleaning and transformation were conducted using MySQL, ensuring accuracy, consistency, and scalability of the data pipeline.
 
-## Key Variables
-
 ## Executive Summary
 
 ### Key Findings
