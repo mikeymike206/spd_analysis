@@ -99,7 +99,7 @@ Geographic Variation:
 ## Insight Deep Dive
 
 ### Statistical Analysis 
-Statistical Tests
+
 1. Linear Regression – Response Time ~ Call Volume (by Precinct)
 
 lm_model <- lm(avg_response_time_sec ~ call_volume, data = priority1_summary)
