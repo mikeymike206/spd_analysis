@@ -154,5 +154,3 @@ Address North Precinct Delays: The North Precinct, with an average response time
 Shift-Based Staffing Adjustments: Response time analysis reveals consistent delays during 8:00–11:00 AM and 4:00–6:00 PM. SPD should explore reallocating or increasing personnel during these windows, which may coincide with shift changes or peak call volumes.
 
 While these recommendations are based on dispatch data and response time metrics, future analysis incorporating real-time officer availability, shift schedules, and unit-level resource allocation would provide a more comprehensive operational picture.
-
-## Why This Matters
