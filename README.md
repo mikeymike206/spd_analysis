@@ -26,6 +26,13 @@ Metrics on unit response and dispatch delays
 
 Together, these tools aim to provide actionable insights for SPD leadership, city officials, and community advocates working to improve emergency response efficiency and public safety outcomes citywide.
 
+# Tools & Technologies
+•	MySQL: Used for raw data ingestion, cleaning, time parsing, and transformation
+•	Power BI: For interactive visualizations, filtering by hour, month, precinct, and priority level
+•	RStudio: For advanced statistical analysis (ANOVA, regression, Tukey HSD)
+•	DAX: For Power BI measures, KPIs, and custom time aggregations
+
+
 ## Data Structure
 
 ## Key Variables
