@@ -1,5 +1,4 @@
 # SPD Resposnse Time Analysis in 2024
-SPD response time analysis in 2024.
 
 ## Project Background and Analysis
 This project analyzes Priority 1 incident response times from the Seattle Police Department (SPD), focusing on the department’s most urgent call category: Immediate/High Priority – Poses Threat to Life. These incidents represent the most severe types of emergencies, where rapid response is critical to public safety outcomes.
