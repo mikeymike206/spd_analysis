@@ -35,6 +35,24 @@ Together, these tools aim to provide actionable insights for SPD leadership, cit
 
 ## Data Structure
 
+The filtered dataset used in this analysis focuses exclusively on Priority 1 incidents, representing the Seattle Police Department’s highest urgency calls—those involving immediate threats to life. The original dataset contained over 500,000 rows of raw dispatch records. After cleaning and filtering for relevant variables and valid entries, the final dataset included approximately 150,000 records spanning the period from January 1 to December 31, 2024.
+
+Key variables used in the analysis include:
+
+first_response_time: Time elapsed from dispatch to first unit arrival
+
+dispatch_precinct: SPD precinct assigned to the incident
+
+dispatch_neighborhood: Neighborhood in which the incident occurred
+
+responding_units: Number of units dispatched to the call
+
+CAD_Event_Original_Time_Queued: Timestamp of when the call entered the queue
+
+incident_month and incident_hour: Extracted time components for temporal analysis
+
+All data cleaning and transformation were conducted using MySQL, ensuring accuracy, consistency, and scalability of the data pipeline.
+
 ## Key Variables
 
 ## Executive Summary
