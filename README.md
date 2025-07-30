@@ -7,7 +7,7 @@ According to SPD, the department has faced persistent staffing shortages in rece
 
 ### The purpose of this project is twofold:
 
-- Evaluate each precinct’s performance against the 7-minute benchmark.
+- Evaluate each precinct’s performance against the 7-minute benchmark. https://shorturl.at/BCyiB
 
 - Identify operational factors (e.g., dispatch volume, unit availability, geography) that may be contributing to slower response times based on publicly available City of Seattle 2024 dispatch data.
 
