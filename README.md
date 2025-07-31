@@ -91,9 +91,10 @@ Geographic Variation:
 
 ### Dashboard
 
-<img width="1326" height="749" alt="image" src="https://github.com/user-attachments/assets/81fefebc-0ebe-482a-9b39-30ce26457d9f" />
+<img width="2082" height="1174" alt="image" src="https://github.com/user-attachments/assets/a104ebc4-dff3-4013-a5c1-ec749299f0ee" />
 
-<img width="1340" height="750" alt="image" src="https://github.com/user-attachments/assets/87ddf7a3-fddc-48fc-abed-977433563071" />
+
+<img width="2126" height="1198" alt="image" src="https://github.com/user-attachments/assets/aadaf089-dba3-441e-85c9-145ca9b4c1fa" />
 
 
 ## Insight Deep Dive
